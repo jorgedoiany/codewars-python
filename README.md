@@ -17,8 +17,8 @@ This repository serves as:
 
 ## Who can use it?
 This repository is perfect for:
-👶 **Python beginners** looking for practical examples
-📈 **Intermediate coders** wanting to improve their problem-solving skills
-👨💻 **Experienced developers** interested in Python-specific optimizations
+- 👶 **Python beginners** looking for practical examples
+- 📈 **Intermediate coders** wanting to improve their problem-solving skills
+- 👨💻 **Experienced developers** interested in Python-specific optimizations
 
 All solutions are implemented in **Python 3**, leveraging Python's unique features and standard library for efficient problem solving.
